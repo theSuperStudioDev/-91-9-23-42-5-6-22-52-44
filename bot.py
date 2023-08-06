@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # Set your bot's token here
-TOKEN = 'your_token_here'
+TOKEN = 'MTA2Mzk5ODEzMTIxNTI5MDM4OA.GMWaRY.2-E2fDoOOL5JjdxLcRoVnb4L_SjT0bI-uSfKks'
 
 # Set the command prefix
 bot = commands.Bot(command_prefix='!')
